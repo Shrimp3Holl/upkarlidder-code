@@ -1,2 +1,2 @@
-# blog-issues
-github issues repo for upkarlidder.com/blog site.
+# upkarlidder-blog
+Github issues repo for [UpkarLidder blog](http://upkarlidder.com/blog) site.
