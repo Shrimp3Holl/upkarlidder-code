@@ -1,2 +1,2 @@
-# upkarlidder-blog
-Github issues repo for [UpkarLidder blog](http://upkarlidder.com/template) site.
+# upkarlidder-code template
+Github issues repo for [UpkarLidder code template](http://upkarlidder.com/template) site.
